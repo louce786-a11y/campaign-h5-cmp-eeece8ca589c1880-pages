@@ -57,7 +57,7 @@ body { display: grid; place-items: center; padding: 18px; }
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: fill;
+  object-fit: contain;
   pointer-events: none;
 }
 .rolling-card-fallback {
